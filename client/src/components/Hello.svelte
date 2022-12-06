@@ -1,0 +1,1 @@
+<h1 class="font-bold text-2xl">Hello, Welcome to svelte.</h1>
